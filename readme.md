@@ -1,6 +1,8 @@
 # Jeremy Intriago Pachay
 
-### Full Stack Web Developer
+<img src="./public/me.jpg" alt="Jeremy Intriago Pachay" style="width:200px; border-radius:50%;" />
+
+### Full-Stack Web Developer
 
 Soy Jeremy, desarrollador apasionado por el UX/UI, innovación tecnológica y arquitectura web.
 Enfocado en hacer de las webs fluidas y con diseños intuitivos para los usuarios.
