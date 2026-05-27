@@ -1,6 +1,6 @@
 # Jeremy Intriago Pachay
 
-<img src="public/me.jpg" alt="Jeremy Intriago Pachay" style="width:200px; border-radius:50%;" />
+<img src="public/me.JPG" alt="Jeremy Intriago Pachay" style="width:200px; border-radius:50%;" />
 
 ### Full-Stack Web Developer
 
